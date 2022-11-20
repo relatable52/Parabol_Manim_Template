@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/MSI LAPTOP/Documents/GitHub/Parabol_Manim_Template/media/videos/template/1080p60/partial_movie_files/Temp/2526682983_818493025_337910499.mp4'
+file 'file:C:/Users/MSI LAPTOP/Documents/GitHub/Parabol_Manim_Template/media/videos/template/1080p60/partial_movie_files/Temp/4207500190_2158347660_2054848151.mp4'
+file 'file:C:/Users/MSI LAPTOP/Documents/GitHub/Parabol_Manim_Template/media/videos/template/1080p60/partial_movie_files/Temp/4207500190_2893358664_2110132560.mp4'
+file 'file:C:/Users/MSI LAPTOP/Documents/GitHub/Parabol_Manim_Template/media/videos/template/1080p60/partial_movie_files/Temp/4207500190_370821236_2715029870.mp4'
